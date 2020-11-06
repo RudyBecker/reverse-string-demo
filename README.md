@@ -1,4 +1,5 @@
 # reverse-string-demo
+Demonstration created for Olzhas @ Delivery Hero.
 
 ## Project setup
 ```
