@@ -32,7 +32,10 @@
         </b-collapse>
       </div>
 
-      <h5 class="my-5">Coded by Rudy Becker for Delivery Hero</h5>
+      <h5 class="mt-5 mb-2">
+        Coded by Rudy Becker for Delivery Hero
+      </h5>
+      <img style="width:10%" src="./assets/DeliveryHeroLogo.png" />
     </div>
   </div>
 </template>
