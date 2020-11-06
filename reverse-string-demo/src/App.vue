@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-    <h1 class="my-2">Reverse String Three Ways</h1>
+    <h1 class="my-2">Reverse a String Three Ways</h1>
     <div>
       <b-form-input
         v-model="inputWord"
@@ -8,6 +8,7 @@
         class="w-50 mx-auto my-5"
       ></b-form-input>
       <div>
+        <div class="font-italic">Click to reveal</div>
         <b-button v-b-toggle.collapse-1 class="m-1"
           >Reverse a String With Built-In Functions</b-button
         >
