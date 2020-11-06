@@ -1,7 +1,7 @@
 # reverse-string-demo
 Demonstration created for Olzhas @ Delivery Hero.
 
-Live Demo: https://rudy2020-deliveryhero-reverse.netlify.app/
+Live Demo : https://rudy2020-deliveryhero-reverse.netlify.app/
 
 ## Project setup
 ```
